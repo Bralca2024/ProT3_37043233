@@ -11,7 +11,7 @@ La base de datos se encuentra en la carpeta BD bajo el nombre cabral_fernando.sq
  * Registro
  * Login
  * Cierre de la sesión
- * Validaciones de los formularios
+ * Validaciones de los formularios ( registro - login )
  * Navbar adaptable acorde al rol del usuario ( Administrador - Cliente )
 
 # Funcionalidades del administrador
@@ -22,7 +22,7 @@ La base de datos se encuentra en la carpeta BD bajo el nombre cabral_fernando.sq
 
 # Funcionalidades del cliente
  * Puede ver una sección extra al momento de loguearse (Nuestros cursos)
- * Puede entrar a su perfil y editar su información correspondiente
+ * Puede entrar a su perfil y editar su información correspondiente ( con validaciones )
  * Se crearon rutas protegidas para que solo el usuario pueda tener acceso a dichas funcionalidades y secciones.
 
 	
